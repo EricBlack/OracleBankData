@@ -1,0 +1,7 @@
+﻿{
+  "ServerHost": "192.168.228.107",
+  "ServerPort": 1521,
+  "DbName": "HG11",
+  "UserName": "user",
+  "Password":  "password"
+}
